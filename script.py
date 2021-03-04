@@ -26,7 +26,7 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @</b>"""
+<b>© @MATShub</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : MATS helper Bot</b>
@@ -37,6 +37,6 @@ Bot will automatically search for your file and give links to that!
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Our Group :</b> <a href='https://t.me/'>Our Group</a> 
+⭕️<b>Our Group :</b> <a href='https://t.me/MATShub'>Our Group</a> 
 
 """
