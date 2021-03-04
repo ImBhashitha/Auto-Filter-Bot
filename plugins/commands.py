@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "OUR CHANNEL", url="https://t.me/")
+                            "OUR CHANNEL", url="https://t.me/MATSchannel")
                     ]
                 ]
             ),
